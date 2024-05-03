@@ -46,7 +46,10 @@ To use the application click inside the editor and start writing some JavaScript
 
 ## Visuals
 
-Visit Live application ![here](jate-text-editor-34b2.onrender.com/)
+Visit Live application [here](jate-text-editor-34b2.onrender.com/)
+
+<img width="650" alt="jate" src="https://github.com/ianahart/jate-text-editor/assets/29121238/aea24cd2-ed79-47de-ba69-8a6e39f30621">
+
 
 ## Tests
 
@@ -58,8 +61,8 @@ Most of the boilerplate for this project was provided by edX bootcamps.
 
 ## References
 
-- ![Idb npm package](https://www.npmjs.com/package/idb)
-- ![Workbox](https://developer.chrome.com/docs/workbox/caching-resources-during-runtime)
+- [Idb npm package](https://www.npmjs.com/package/idb)
+- [Workbox](https://developer.chrome.com/docs/workbox/caching-resources-during-runtime)
 
 ## License
 
